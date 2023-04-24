@@ -1,0 +1,6 @@
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Entidad\bin\Debug\Entidad.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Entidad\bin\Debug\Entidad.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Entidad\obj\Debug\Entidad.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Entidad\obj\Debug\Entidad.pdb
