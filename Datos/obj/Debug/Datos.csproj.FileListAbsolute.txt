@@ -1,0 +1,9 @@
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Datos\bin\Debug\Datos.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Datos\bin\Debug\Datos.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Datos\bin\Debug\Entidad.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Datos\bin\Debug\Entidad.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Datos\obj\Debug\Datos.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\Datos\obj\Debug\Datos.pdb
