@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A70A4DD-CF54-4D7F-8C69-026D1FEA030D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TPG401</RootNamespace>
+    <AssemblyName>TPG401</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.4.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.4\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="0. PRINCIPAL\FormTipoGestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0. PRINCIPAL\FormTipoGestion.Designer.cs">
+      <DependentUpon>FormTipoGestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\0. G_Datos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\0. G_Datos.Designer.cs">
+      <DependentUpon>0. G_Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2. GESTIÓN DE GASTOS\0. G_Gastos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="2. GESTIÓN DE GASTOS\0. G_Gastos.Designer.cs">
+      <DependentUpon>0. G_Gastos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\0. G_Inventario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\0. G_Inventario.Designer.cs">
+      <DependentUpon>0. G_Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\2. dar_animal_adop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\2. dar_animal_adop.Designer.cs">
+      <DependentUpon>2. dar_animal_adop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones.cs" />
+    <Compile Include="1. GESTION DE DATOS\3. list_animales.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\3. list_animales.Designer.cs">
+      <DependentUpon>3. list_animales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\4. list_adopciones.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\4. list_adopciones.Designer.cs">
+      <DependentUpon>4. list_adopciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2. GESTIÓN DE GASTOS\2. list_gastos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="2. GESTIÓN DE GASTOS\2. list_gastos.Designer.cs">
+      <DependentUpon>2. list_gastos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\2. list_medicamentos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\2. list_medicamentos.Designer.cs">
+      <DependentUpon>2. list_medicamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\5. list_adoptantes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\5. list_adoptantes.Designer.cs">
+      <DependentUpon>5. list_adoptantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="0. INGRESAR\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0. INGRESAR\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\3.1. list_animales_editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\3.1. list_animales_editar.Designer.cs">
+      <DependentUpon>3.1. list_animales_editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\4.1. list_adopciones_editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\4.1. list_adopciones_editar.Designer.cs">
+      <DependentUpon>4.1. list_adopciones_editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\5.1. list_adoptantes_editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\5.1. list_adoptantes_editar.Designer.cs">
+      <DependentUpon>5.1. list_adoptantes_editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2. GESTIÓN DE GASTOS\2.1. list_gastos_editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2. GESTIÓN DE GASTOS\2.1. list_gastos_editar.Designer.cs">
+      <DependentUpon>2.1. list_gastos_editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\2.1. list_medicamentos_editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\2.1. list_medicamentos_editar.Designer.cs">
+      <DependentUpon>2.1. list_medicamentos_editar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\6. list_animales_crit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\6. list_animales_crit.Designer.cs">
+      <DependentUpon>6. list_animales_crit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2. GESTIÓN DE GASTOS\3. list_gastos_mes_o_anio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="2. GESTIÓN DE GASTOS\3. list_gastos_mes_o_anio.Designer.cs">
+      <DependentUpon>3. list_gastos_mes_o_anio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\3. list_medicamentos_propensos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\3. list_medicamentos_propensos.Designer.cs">
+      <DependentUpon>3. list_medicamentos_propensos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="1. GESTION DE DATOS\1. reg_new_animal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1. GESTION DE DATOS\1. reg_new_animal.Designer.cs">
+      <DependentUpon>1. reg_new_animal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2. GESTIÓN DE GASTOS\1. reg_new_gasto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="2. GESTIÓN DE GASTOS\1. reg_new_gasto.Designer.cs">
+      <DependentUpon>1. reg_new_gasto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\1. reg_new_medicamento.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\1. reg_new_medicamento.Designer.cs">
+      <DependentUpon>1. reg_new_medicamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="0. INGRESAR\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0. INGRESAR\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="0. INGRESAR\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0. INGRESAR\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0. PRINCIPAL\FormTipoGestion.resx">
+      <DependentUpon>FormTipoGestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1. GESTION DE DATOS\0. G_Datos.resx">
+      <DependentUpon>0. G_Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1. GESTION DE DATOS\1. reg_new_animal.resx">
+      <DependentUpon>1. reg_new_animal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1. GESTION DE DATOS\2. dar_animal_adop.resx">
+      <DependentUpon>2. dar_animal_adop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1. GESTION DE DATOS\3. list_animales.resx">
+      <DependentUpon>3. list_animales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1. GESTION DE DATOS\3.1. list_animales_editar.resx">
+      <DependentUpon>3.1. list_animales_editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1. GESTION DE DATOS\4. list_adopciones.resx">
+      <DependentUpon>4. list_adopciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1. GESTION DE DATOS\5. list_adoptantes.resx">
+      <DependentUpon>5. list_adoptantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1. GESTION DE DATOS\5.1. list_adoptantes_editar.resx">
+      <DependentUpon>5.1. list_adoptantes_editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2. GESTIÓN DE GASTOS\0. G_Gastos.resx">
+      <DependentUpon>0. G_Gastos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2. GESTIÓN DE GASTOS\2.1. list_gastos_editar.resx">
+      <DependentUpon>2.1. list_gastos_editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2. GESTIÓN DE GASTOS\3. list_gastos_mes_o_anio.resx">
+      <DependentUpon>3. list_gastos_mes_o_anio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\0. G_Inventario.resx">
+      <DependentUpon>0. G_Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2. GESTIÓN DE GASTOS\2. list_gastos.resx">
+      <DependentUpon>2. list_gastos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\1. reg_new_medicamento.resx">
+      <DependentUpon>1. reg_new_medicamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\2. list_medicamentos.resx">
+      <DependentUpon>2. list_medicamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1. GESTION DE DATOS\4.1. list_adopciones_editar.resx">
+      <DependentUpon>4.1. list_adopciones_editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\2.1. list_medicamentos_editar.resx">
+      <DependentUpon>2.1. list_medicamentos_editar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1. GESTION DE DATOS\6. list_animales_crit.resx">
+      <DependentUpon>6. list_animales_crit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3. GESTIÓN DE INVENTARIO DE MEDICAMENTOS\3. list_medicamentos_propensos.resx">
+      <DependentUpon>3. list_medicamentos_propensos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="2. GESTIÓN DE GASTOS\1. reg_new_gasto.resx">
+      <DependentUpon>1. reg_new_gasto.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidad\Entidad.csproj">
+      <Project>{ecde85ff-2096-4527-abd9-15860b7f784c}</Project>
+      <Name>Entidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{4c79a1f1-9b0b-4b07-b902-6e085e6b31ac}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_data1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_data2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_email1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_email2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_eye1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_eye2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_house1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_house2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_lock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_lock2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_pass1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_pass2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_user2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\googleplus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\googleplus1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siga-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
