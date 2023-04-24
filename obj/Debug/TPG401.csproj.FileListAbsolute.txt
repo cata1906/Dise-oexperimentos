@@ -1,0 +1,148 @@
+C:\Users\brian\source\repos\TPG401\TPG401\bin\Debug\TPG401.exe.config
+C:\Users\brian\source\repos\TPG401\TPG401\bin\Debug\TPG401.exe
+C:\Users\brian\source\repos\TPG401\TPG401\bin\Debug\TPG401.pdb
+C:\Users\brian\source\repos\TPG401\TPG401\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.Properties.Resources.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.csproj.CopyComplete
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.exe
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.pdb
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.P_Admin.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.P_Admin_Login.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.P_Admin_Register.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.P_Cliente.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.P_Cliente_Login.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.P_Cliente_Register.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.FormRegLog.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.FormTipoGestion.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.G_Datos.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.G_Gastos.resources
+C:\Users\brian\source\repos\TPG401\TPG401\obj\Debug\TPG401.G_Inventario.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\bin\Debug\TPG401.exe.config
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\bin\Debug\TPG401.exe
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\bin\Debug\TPG401.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.P_Admin.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.P_Admin_Login.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.P_Admin_Register.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.P_Cliente.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.P_Cliente_Login.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.P_Cliente_Register.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.FormRegLog.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.FormTipoGestion.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.G_Datos.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.G_Gastos.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.G_Inventario.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.Properties.Resources.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.csproj.CopyComplete
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.exe
+C:\Users\brian\source\repos\FUNDAMENTOS\TPG401\TPG401\obj\Debug\TPG401.pdb
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\TPG401.exe.config
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\TPG401.exe
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\TPG401.pdb
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\FontAwesome.Sharp.dll
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.csproj.AssemblyReference.cache
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Admin.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Admin_Login.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Admin_Register.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Cliente.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Cliente_Login.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Cliente_Register.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.FormRegLog.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.FormTipoGestion.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.G_Datos.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.G_Gastos.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.G_Inventario.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.Properties.Resources.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.csproj.GenerateResource.cache
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.csproj.CoreCompileInputs.cache
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.csproj.CopyComplete
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.exe
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.pdb
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.reg_new_animal.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.dar_animal_adop.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_animales.resources
+F:\Microsoft\Microsoft Visual Studio\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_animales_adop.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\bin\Debug\TPG401.exe.config
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\bin\Debug\TPG401.exe
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\bin\Debug\TPG401.pdb
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.csproj.AssemblyReference.cache
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.P_Admin.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.P_Admin_Login.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.P_Admin_Register.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.P_Cliente.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.P_Cliente_Login.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.P_Cliente_Register.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.FormRegLog.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.FormTipoGestion.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.G_Datos.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.reg_new_animal.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.dar_animal_adop.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.list_animales.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.list_animales_adop.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.G_Gastos.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.G_Inventario.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.Properties.Resources.resources
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.csproj.GenerateResource.cache
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.csproj.CoreCompileInputs.cache
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.csproj.CopyComplete
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.exe
+C:\Users\NetHunter\Escritorio\TPG401\TPG401\obj\Debug\TPG401.pdb
+C:\Users\brian\Desktop\1\TPG401\bin\Debug\TPG401.exe.config
+C:\Users\brian\Desktop\1\TPG401\bin\Debug\TPG401.exe
+C:\Users\brian\Desktop\1\TPG401\bin\Debug\TPG401.pdb
+C:\Users\brian\Desktop\1\TPG401\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.csproj.AssemblyReference.cache
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.P_Admin.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.P_Admin_Login.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.P_Admin_Register.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.P_Cliente.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.P_Cliente_Login.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.P_Cliente_Register.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.FormRegLog.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.FormTipoGestion.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.G_Datos.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.reg_new_animal.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.dar_animal_adop.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.list_animales.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.list_animales_adop.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.G_Gastos.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.G_Inventario.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.Properties.Resources.resources
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.csproj.GenerateResource.cache
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.csproj.CopyComplete
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.exe
+C:\Users\brian\Desktop\1\TPG401\obj\Debug\TPG401.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\TPG401.exe.config
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\TPG401.exe
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\TPG401.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Admin.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Admin_Login.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Admin_Register.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Cliente.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Cliente_Login.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.P_Cliente_Register.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.FormRegLog.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.FormTipoGestion.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.G_Datos.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.reg_new_animal.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.dar_animal_adop.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_animales.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_animales_adop.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.G_Gastos.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.G_Inventario.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.Properties.Resources.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.csproj.CopyComplete
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.exe
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.pdb

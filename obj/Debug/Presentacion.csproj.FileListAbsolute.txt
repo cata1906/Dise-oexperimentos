@@ -1,0 +1,122 @@
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\TPG401.exe.config
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\TPG401.exe
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\TPG401.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\Entidad.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\Negocio.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\Datos.dll
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\Entidad.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\Negocio.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\bin\Debug\Datos.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.FormTipoGestion.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.G_Datos.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.reg_new_animal.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.dar_animal_adop.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_animales.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.G_Gastos.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.G_Inventario.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.Properties.Resources.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.exe
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.pdb
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_adoptantes.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_gastos.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.reg_new_medicamento.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_medicamentos.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.reg_new_gasto.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.Login.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.Register.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_animales_editar.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_adopciones.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_adopciones_editar.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_adoptantes_editar.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_gastos_editar.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_medicamentos_editar.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_animales_crit.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_gastos_mes_o_anio.resources
+C:\Users\brian\source\repos\FUNDAMENTOS\PARCIAL - TRABAJO\TPG401\TPG401\obj\Debug\TPG401.list_medicamentos_propensos.resources
+D:\Codigos\trabajoF\TPG401\TPG401\bin\Debug\TPG401.exe.config
+D:\Codigos\trabajoF\TPG401\TPG401\bin\Debug\TPG401.exe
+D:\Codigos\trabajoF\TPG401\TPG401\bin\Debug\TPG401.pdb
+D:\Codigos\trabajoF\TPG401\TPG401\bin\Debug\Entidad.dll
+D:\Codigos\trabajoF\TPG401\TPG401\bin\Debug\FontAwesome.Sharp.dll
+D:\Codigos\trabajoF\TPG401\TPG401\bin\Debug\Negocio.dll
+D:\Codigos\trabajoF\TPG401\TPG401\bin\Debug\Datos.dll
+D:\Codigos\trabajoF\TPG401\TPG401\bin\Debug\Entidad.pdb
+D:\Codigos\trabajoF\TPG401\TPG401\bin\Debug\Negocio.pdb
+D:\Codigos\trabajoF\TPG401\TPG401\bin\Debug\Datos.pdb
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.Login.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.Register.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.FormTipoGestion.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.G_Datos.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.reg_new_animal.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.dar_animal_adop.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_animales.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_animales_editar.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_adopciones.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_adoptantes.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_adoptantes_editar.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.G_Gastos.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_gastos_editar.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_gastos_mes_o_anio.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.G_Inventario.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_gastos.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.reg_new_medicamento.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_medicamentos.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_adopciones_editar.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_medicamentos_editar.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_animales_crit.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.list_medicamentos_propensos.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.Properties.Resources.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.reg_new_gasto.resources
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.exe
+D:\Codigos\trabajoF\TPG401\TPG401\obj\Debug\TPG401.pdb
+D:\Codigos\Trabajo final\TPG401\TPG401\bin\Debug\TPG401.exe.config
+D:\Codigos\Trabajo final\TPG401\TPG401\bin\Debug\TPG401.exe
+D:\Codigos\Trabajo final\TPG401\TPG401\bin\Debug\TPG401.pdb
+D:\Codigos\Trabajo final\TPG401\TPG401\bin\Debug\Entidad.dll
+D:\Codigos\Trabajo final\TPG401\TPG401\bin\Debug\FontAwesome.Sharp.dll
+D:\Codigos\Trabajo final\TPG401\TPG401\bin\Debug\Negocio.dll
+D:\Codigos\Trabajo final\TPG401\TPG401\bin\Debug\Datos.dll
+D:\Codigos\Trabajo final\TPG401\TPG401\bin\Debug\Entidad.pdb
+D:\Codigos\Trabajo final\TPG401\TPG401\bin\Debug\Negocio.pdb
+D:\Codigos\Trabajo final\TPG401\TPG401\bin\Debug\Datos.pdb
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.Login.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.Register.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.FormTipoGestion.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.G_Datos.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.reg_new_animal.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.dar_animal_adop.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_animales.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_animales_editar.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_adopciones.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_adoptantes.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_adoptantes_editar.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.G_Gastos.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_gastos_editar.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_gastos_mes_o_anio.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.G_Inventario.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_gastos.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.reg_new_medicamento.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_medicamentos.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_adopciones_editar.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_medicamentos_editar.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_animales_crit.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.list_medicamentos_propensos.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.Properties.Resources.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.reg_new_gasto.resources
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.exe
+D:\Codigos\Trabajo final\TPG401\TPG401\obj\Debug\TPG401.pdb
